@@ -1,1 +1,5 @@
-a simple project which uses jwt  for authentication # Basic-Auth
+A simple project which uses JWT for authentication
+
+
+To run the project set the .env values to your database values
+use npm run dev
